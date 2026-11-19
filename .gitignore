@@ -1,0 +1,33 @@
+# C++ / CMake build artifacts
+build/
+vcpkg_installed/
+.cache/
+*.ppm
+out.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test artifacts
+*.profraw
+coverage/
+
+# Python
+__pycache__/
+
